@@ -1,0 +1,39 @@
+# LaTeX intermediate and output files
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.fmt
+*.fot
+*.cb
+*.cb2
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.synctex.gz
+*.run.xml
+
+# Temporary files
+*~
+*.swp
+*.bak
+*.tmp
+
+# TeXShop (Mac) files
+*.texpadtmp
+*.synctex.gz(busy)
+
+# VSCode files
+.vscode/
+
+# Build directories
+_build/
+build/
+output/
+
+# Keep your final PDF in the repo
+# *.pdf
